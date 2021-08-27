@@ -2,7 +2,7 @@
 I'm inrested in Web Development and i am not an expert just a real student. Hehe :)
 
 ### These My Skills
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/redux.png"/> <img src="https://img.icons8.com/color/48/000000/php.png"/> <img src="https://cdn.iconscout.com/icon/free/png-512/codeigniter-4-1175201.png" width="70"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/redux.png"/> <img src="https://img.icons8.com/color/48/000000/php.png"/> <img src="https://cdn.iconscout.com/icon/free/png-512/codeigniter-4-1175201.png" width="50"/>
 
 ### What Tools I Used
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
