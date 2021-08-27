@@ -10,7 +10,7 @@ I'm inrested in Web Development and i am not an expert just a real student. Hehe
 <img src="https://img.shields.io/badge/Chrome_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
 
 <img src="https://github-readme-stats.vercel.app/api/?username=fadhlurrahmanID&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhardiansa&layout=compact" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhlurrahmanID&layout=compact" alt="github stats"/>
 
 
 ### Let's connect with me!
