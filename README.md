@@ -7,7 +7,7 @@ I'm inrested in Web Development and i am not an expert just a real student. Hehe
 ### What Tools I Used
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
-<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+<img src="https://img.shields.io/badge/Chrome_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
 
 <img src="https://github-readme-stats.vercel.app/api/?username=nhardiansa&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhardiansa&layout=compact" alt="github stats"/>
