@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fadhlurrahman</h1>
 <h3 align="center">I'm a 16 years old fullstack web in indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fdlrahman" alt="fdlrahman" /></a> </p>
-
 - 🌱 I’m currently learning **Typescript, NextJS**
 
 - ⚡ Fun fact **I'm an ex-owner of a digital printing business**
