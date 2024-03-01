@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript, NextJS**
 
-- ⚡ Fun fact **I'm an ex-owner of a digital printing business**
+- ⚡ Fun fact **I have a digital printing business**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
